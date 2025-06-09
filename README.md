@@ -20,3 +20,5 @@ A simple Python script that checks the strength of a password based on multiple 
 ```bash
 git clone https://github.com/javahar480/password-strength-checker.git
 cd password-strength-checker
+password_checker.py
+python password_checker.py
